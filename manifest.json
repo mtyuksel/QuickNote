@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Quick Note",
+    "description": "This extension store notes",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "quick-note.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
